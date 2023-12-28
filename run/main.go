@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/paketo-buildpacks/git"
+	"github.com/initializ/git"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/pexec"
 	"github.com/paketo-buildpacks/packit/v2/scribe"

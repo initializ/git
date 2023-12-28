@@ -8,8 +8,8 @@ import (
 
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/servicebindings"
-	"github.com/paketo-buildpacks/git"
-	"github.com/paketo-buildpacks/git/fakes"
+	"github.com/initializ/git"
+	"github.com/initializ/git/fakes"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"
